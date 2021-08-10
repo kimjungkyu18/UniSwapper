@@ -1,4 +1,4 @@
-# AP Capital Assessment (UniSwapper)
+# UniSwapper
 This assessment was done using Solidity, Truffle, and tested on the Kovan testnet. 
 
 ## Setup
